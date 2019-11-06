@@ -5,5 +5,5 @@ r.encoding = r.apparent_encoding
 
 print(r.apparent_encoding)
 print(r.text)
-print(00)
+print(r.encoding)
 
