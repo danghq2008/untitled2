@@ -7,3 +7,5 @@ print(r.apparent_encoding)
 print(r.text)
 print(r.encoding)
 
+print(r.content)
+
